@@ -1,4 +1,4 @@
-# TouchTag
+# VL.TUI
 
 TouchTag is a toolkit for reliable tangible tag tracking on IR multi-touch tables, with optional FilterID integration.
 
