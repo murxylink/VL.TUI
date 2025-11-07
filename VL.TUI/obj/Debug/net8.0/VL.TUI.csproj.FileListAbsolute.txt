@@ -1,0 +1,14 @@
+C:\VVVVApps\IdTagso\csharp\VL.TUI\bin\Debug\net8.0\VL.TUI.deps.json
+C:\VVVVApps\IdTagso\csharp\VL.TUI\bin\Debug\net8.0\VL.TUI.dll
+C:\VVVVApps\IdTagso\csharp\VL.TUI\bin\Debug\net8.0\VL.TUI.pdb
+C:\VVVVApps\IdTagso\csharp\VL.TUI\bin\Debug\net8.0\VL.TUI.xml
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.csproj.AssemblyReference.cache
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.AssemblyInfoInputs.cache
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.AssemblyInfo.cs
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.csproj.CoreCompileInputs.cache
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.dll
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\refint\VL.TUI.dll
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.xml
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\VL.TUI.pdb
+C:\VVVVApps\IdTagso\csharp\VL.TUI\obj\Debug\net8.0\ref\VL.TUI.dll

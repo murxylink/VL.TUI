@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VL.TUI</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:TouchTag.Runtime.MergeAndSplit2D.MergeDuplicates(System.Collections.Generic.IEnumerable{Stride.Core.Mathematics.Vector2},System.Single)" -->
+        <member name="M:TouchTag.Runtime.MergeAndSplit2D.MergeDuplicatesForFrame(System.Collections.Generic.IEnumerable{Stride.Core.Mathematics.Vector2},System.Single)">
+            <summary>
+            Удобный синоним для "кадр целиком" (тот же MergeDuplicates).
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:TouchTag.Runtime.MergeAndSplit2D.SplitLargeClustersFromPoints(System.Collections.Generic.IEnumerable{System.Collections.Generic.IEnumerable{Stride.Core.Mathematics.Vector2}},System.Int32,System.Int32,System.Single,System.Int32,System.Int32)" -->
+    </members>
+</doc>
